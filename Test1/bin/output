@@ -1,0 +1,20 @@
+Q1.
+Enter the number of items: 3
+Enter price of first item: RM150
+Enter quantity of first item: 2
+
+Enter price of second items: RM50
+Enter quantity of second item: 3
+
+Enter price of third items: RM30
+Enter quantity of third item: 1
+
+Total price: RM480.0
+Discount received: RM96.0
+Price to be paid: RM384.0
+
+Q2.
+Enter sales: RM500
+Enter hours worked:5
+Commission: RM50.0
+Daily wages: RM75.0
